@@ -1,1 +1,2 @@
 # vidhikhedkar-RESTAURANT_RESERVATION_System
+MA mern stack application for a restaurant reservation system is a software application that enables customers to book tables at a restaurant either online or in person, streamlining the reservation process for both the restaurant and the customer. It helps restaurants manage reservations efficiently, optimize seating layouts, and provide convenience for customers. 
